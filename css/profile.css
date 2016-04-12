@@ -1,3 +1,29 @@
 body {
   font-family: 'Raleway', sans-serif;
 }
+
+.section {
+  margin: 10px;
+  padding: 10px;
+}
+
+p {
+  text-align: justify;
+}
+
+.page {
+  margin: 15px;
+  padding: 15px;
+  -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
+-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
+box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
+background-color: #EDF3F2;
+}
+
+h2 {
+  color : #41554f;
+}
+
+h1 {
+  color: #737429;
+}
