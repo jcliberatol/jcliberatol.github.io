@@ -8,8 +8,7 @@
 }
 
 .mail{
-  -webkit-transform: rotateX(-10deg) rotateY(25deg);
-     -moz-transform: rotateX(-10deg) rotateY(25deg);
+  font-size: 10px;
 }
 
 .title {
