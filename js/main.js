@@ -1,4 +1,3 @@
-console.log("I'm running");
 var time = 0;
 var all = {};
 
