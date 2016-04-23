@@ -204,9 +204,17 @@ box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
   margin: auto;
   padding: 5px;
   max-width: 300px;
-    -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+    -moz-box-shadow:    1px 1px 1px 1px #ccc;
+  -webkit-box-shadow: 1px 1px 1px 1px #ccc;
+  box-shadow:         1px 1px 1px 1px #ccc;
+}
+.ref:hover {
+  margin: auto;
+  padding: 5px;
+  max-width: 300px;
+    -moz-box-shadow:    1px 2px 2px 2px #ccc;
+  -webkit-box-shadow: 1px 2px 2px 2px #ccc;
+  box-shadow:         1px 2px 2px 2px #ccc;
 }
 
 
