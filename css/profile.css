@@ -187,6 +187,10 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
   color: white;
 }
 
+.element > h2 > span {
+  font-style : italic;
+  font-size : 20px;
+}
 
 
 .date {
@@ -198,6 +202,9 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
   margin: auto;
   padding: 5px;
   max-width: 300px;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
 }
 
 
