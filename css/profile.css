@@ -68,9 +68,9 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
   color: white;
   background-color: rgba(0, 120, 147, 0.9);
   border-color: rgba(0, 120, 147, 1);
-  -webkit-box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
--moz-box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
-box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
+  -webkit-box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
+-moz-box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
+box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
 }
 
 .star {
@@ -89,9 +89,9 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
 }
 
 .subsection:hover {
-    -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+    -moz-box-shadow:    3px 3px 3px 3px #ccc;
+  -webkit-box-shadow: 3px 3px 3px 3px #ccc;
+  box-shadow:         3px 3px 3px 3px #ccc;
 }
 
 .subsection > h3 {
@@ -149,9 +149,9 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
 }
 
 .element:hover {
-    -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+    -moz-box-shadow:    3px 3px 3px 3px #ccc;
+  -webkit-box-shadow: 3px 3px 3px 3px #ccc;
+  box-shadow:         3px 3px 3px 3px #ccc;
 }
 
 .tech {
@@ -190,6 +190,8 @@ box-shadow: 0px 0px 3px 1px rgba(5, 94, 136, 1);
 .element > h2 > span {
   font-style : italic;
   font-size : 20px;
+  padding : 5px;
+  border-bottom : solid 2px black;
 }
 
 
