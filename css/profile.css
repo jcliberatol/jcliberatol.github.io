@@ -5,7 +5,8 @@ body {
 .link {
    padding : 10px;
    border-radius : 10px;
-     background-color: rgba(180, 230, 252, 0.2);
+   color : rgba(80,150,250,1);
+     background-color: rgba(80, 150, 250, 0.2);
   border : dashed rgba(180,230,252,0.8) 1px;
   text-decoration : underline;
   margind : 3px;
