@@ -176,15 +176,17 @@ box-shadow: 0px 0px 2px 2px rgba(5, 94, 136, 1);
 
 
 .ed > .element > ul > li {
-  border-left: solid 2px rgba(10, 172, 246, 1);
+  border-left: solid 5px rgba(10, 172, 246, 1);
   margin: 2px;
   padding: 2px;
+  padding-left : 10px;
   display: block;
 }
 
 .ed > .element > ul > li:hover {
   background-color: rgba(5, 94, 136, 1);
   color: white;
+  font-style : italic;
 }
 
 .element > h2 > span {
@@ -264,11 +266,11 @@ box-shadow: 0px 0px 2px 2px rgba(5, 94, 136, 1);
 
 .title2 {
   color: rgba(5, 94, 136, 1);
-  font-size: 45px;
+  font-size: 55px;
   font-weight: bolder;
   margin-bottom: 0px;
-  -webkit-transform: rotateX(-10deg) rotateY(15deg);
-     -moz-transform: rotateX(-10deg) rotateY(15deg);
+  -webkit-transform: rotateX(-10deg) rotateY(10deg);
+     -moz-transform: rotateX(-10deg) rotateY(10deg);
    text-shadow:
        1px 1px 0 #03234c,
      -1px -1px 0 #03234c,
@@ -288,7 +290,7 @@ box-shadow: 0px 0px 2px 2px rgba(5, 94, 136, 1);
 
 .subtitle2 {
   color: rgba(5, 94, 136, 1);
-  font-size: 19px;
+  font-size: 25px;
   margin-top: 0px;
   -webkit-transform: rotateX(-10deg) rotateY(15deg);
      -moz-transform: rotateX(-10deg) rotateY(15deg);
