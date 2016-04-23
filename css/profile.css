@@ -1,5 +1,13 @@
 body {
-  font-family: 'Raleway', sans-serif;
+   font-family: 'Titillium Web', sans-serif;
+}
+
+.pgweb{
+  margin : 10px;
+  padding : 10px;
+  background-color : rgba(20,150,200,0.2);
+  position : fixed;
+  color : rgba(10,100,150,0.9);
 }
 
 .darkblue{
