@@ -2,12 +2,25 @@ body {
    font-family: 'Titillium Web', sans-serif;
 }
 
+.link {
+   padding : 10px;
+   border-radius : 10px;
+     background-color: rgba(180, 230, 252, 0.2);
+  border : dashed rgba(180,230,252,0.8) 1px;
+  text-decoration : underline;
+  margind : 3px;
+  -webkit-box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
+-moz-box-shadow: 0px 0px 1px 0px rgba(5, 94, 136, 1);
+}
+
 .pgweb{
   margin : 10px;
   padding : 10px;
   background-color : rgba(20,150,200,0.2);
   float : right;
   color : rgba(10,100,150,0.9);
+  -webkit-box-shadow: 0px 0px 1px 1px rgba(5, 94, 136, 1);
+-moz-box-shadow: 0px 0px 1px 0px rgba(5, 94, 136, 1);
 }
 
 .darkblue{
