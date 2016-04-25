@@ -12,6 +12,8 @@
   <link href='https://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
   <script type="text/javascript" src="js/color.js"></script>
+  <link rel="stylesheet" href="css/profile.css">
+    <link rel="stylesheet" href="css/projects.css">
 
 </head>
 
@@ -19,103 +21,105 @@
   <div class="bighead">
     <div class="rotating">
       </div>
-      <h1 class="title">Juan Liberato</h1>
-      <h3 class="subtitle">Projects</h3>
-
   </div>
 
-  <div class="content">
-    <h1>Projects : </h1>
 
-    <div class="section">
-      <h1>Proyectos</h1>
-      <div class="flexw">
-        <div class="element">
-          <h2>Visual Math (2015)</h2>
-          <p>
-            Se implemento una libreria 3D en Javascript usando WEBGL y Katex para la creacion de contenido 3D relacionado a la visualizacion en matematicas, se desarrollo un curso de operaciones matriciales y transformaciones en 3D para ayudar al curso de computacion grafica del programa de ingenieria de sistemas y computacion (UNAL)
-          </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>threejs</li>
-            <li>katex</li>
-            <li>meteorjs</li>
-            <li>handlebarsjs</li>
-            <li>semanticui</li>
-          </ul>
-        </div>
+  <div class="bighead2" style="width:100%">
+      <h1 class="title2">Proyectos</h1>
+      <h3 class="subtitle2">Juan Liberato </h3>
+  </div>
 
-        <div class="element">
-          <h2>Dascire (2015)</h2>
+  <div class="section">
+    <div class="flex">
+      <div class="element expandableContainer">
+        <h1>Visual Math (2015)</h1>
+        <div class="expandableSection">
           <p>
-            Emprendimiento que pretende apoyarse en la MIRT(Teoria de respuesta al item multidimensional) y infraestructuras modernas en Javascript/R (HTML / node.js / OpenCPU) para aplicaciones de datos que proveen aprendizaje adaptativo en los colegios y universidades. , Participante en el VilCap Education Forum Colombia 2015.
+           Se implementó una <b>librería 3D en Javascript usando WEBGL y Katex para la creación de contenido 3D relacionado a la visualizacion en matemáticas</b>, se desarrollo un curso de operaciones matriciales y transformaciones en 3D para ayudar al curso de computación gráfica del programa de ingeniería de sistemas y computación (Universidad Nacional de Colombia)
           </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>d3</li>
-            <li>OpenCPU</li>
-            <li>R</li>
-            <li>katex</li>
-            <li>meteorjs</li>
-            <li>semanticui</li>
-          </ul>
+          <p>
+            Como parte del proyecto se hicieron interacciones de matematicas 3D, como por ejemplo la rotacion de un cubo en el espacio, en el sistema de coordenadas esferico:
+          </p>
+          <img src="http://i.imgur.com/KI8ghmn.png" alt="vm1"/>
+          <p>
+            El proyecto Visual Math actualmente se encuentra en desarrollo de su segunda version. Incluira clases y tutoriales de temas mas sencillos asi como mas interactividades para loos estudiantes :
+          </p>
+          <img src="http://i.imgur.com/4ZYH6pZ.png" alt="vm2"/>
+          <h3>Vea el proyecto visual Math en github : <a href="https://github.com/samigc/visualmath" class="link">Visual Math</a></h3>
         </div>
+      </div>
 
-        <div class="element">
-          <h2>PyOS (2015)</h2>
-          <p>
-            Emulador de consola compartida para enviar comandos UNIX a un cluster beowulf que arranca desde una sola instancia centOS y propaga el sistema operativo mediante un boot por red.
-          </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>d3</li>
-            <li>OpenCPU</li>
-            <li>R</li>
-            <li>katex</li>
-            <li>meteorjs</li>
-            <li>semanticui</li>
-          </ul>
-        </div>
+      <div class="element expandableContainer bg-url" data-bgurl="http://i.imgur.com/t9OwgY2.png">
+        <h1>Analisis de los meandros del rio Magdalena en la Dorada, Caldas (2012 - 2015)</h1>
+        <p class="expandableSection">
+       Se realizó un análisis primero desde la perspectiva de las GIS / simulación con agentes y luego desde el análisis numérico y los métodos de elementos finitos para simular el caudal del río magdalena en la costa del municipio de la Dorada, Caldas. El río actualmente amenaza el municipio y ha causado multiples inundaciones, la geomorfología del sitio es especial y la simulación numérica es de gran ayuda para comprender como mitigar desastres y emprender estrategias de migración hacia el futuro.
+        </p>
 
-        <div class="element">
-          <h2>Analisis de los meandros del rio Magdalena en la Dorada, Caldas (2012 - 2015)</h2>
-          <p>
-            Se realizo un analisis primero desde la perspectiva de las GIS / simulacion con agentes y luego desde el analisis numerico y los metodos de elementos finitos para simular el caudal del rio magdalena en la costa del municipio de la Dorada, Caldas, el rio actualmente amenaza el municipio y ha causado multiples inundaciones, la geomorfologia del sitio es especial y la simulacion numerica es de gran ayuda para comprender como mitigar desastres y emprender estrategias de migracion hacia el futuro.
-          </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>grassGIS</li>
-            <li>blue kenue / sysyphe</li>
-            <li>Python</li>
-            <li>FORTRAN</li>
-            <li>Wolfram Mathematica</li>
-            <li>Netlogo</li>
-          </ul>
+        <div class="expandableSection">
+          <h2>Vea los documentos del proyecto </h2>
+          <div>
+            <h3>Primer estudio preliminar, con Juan Carlos Soto y Luis Gerardo Astaiza </h3>
+            <a href="files/presentgeo.pdf" class="link">Presentaciòn</a>
+            <a href="files/artic.pdf" class="link">Articulo</a>
+          </div>
+          <div>
+            <h3>Simulacion Numerica, con apoyo del profesor Juan Carlos Galvis</h3>
+            <a href="files/numerigeo.pdf" class="link">Articulo</a>
+          </div>
+          <div>
+            <h3>Propuesta de tesis de posgrado de Juan Carlos Soto, quien continua el estudio</h3>
+            <a href="files/simugeo.pdf" class="link">Propuesta</a>
+          </div>
         </div>
+        <h2>Algunas Imagenes del Proyecto</h2>
+        <div class="flexw">
+          <div>
+            <h6>Clasificacion del uso del suelo y el suelo en la region : </h6>
+            <img class="sm" src="http://i.imgur.com/jUJtdwL.png" alt="vm1"/>
+          </div>
+          <div >
+            <h6>Tipos de suelos bajo la zona urbana y proximidades</h6>
+            <img class="sm" src="http://i.imgur.com/K0jr1eZ.png" alt="vm1"/>
+          </div>
+          <div class="">
+            <h6>Fotografias aereas con variacion temporal (Archivo Agustin Codazzi)</h6>
+            <img class="sm" src="http://i.imgur.com/q9mHWzP.png" alt="vm1"/>
+          </div>
+        </div>
+      </div>
+      <div class="element expandableContainer bg-url" data-bgurl="http://impactspace.com/images/uploads/09102015_063354.png">
+        <h1>Dascire (2015)</h1>
+        <p class="expandableSection" >
+        Emprendimiento que pretende apoyarse en la MIRT(Teoria de Respuesta al Item Multidimensional) y <b>infraestructuras modernas en Javascript/R (HTML / node.js / OpenCPU)</b> para aplicaciones de datos que proveen aprendizaje adaptativo en los colegios y universidades. Participante en el VilCap Education Forum Colombia 2015.
+        </p>
+      </div>
 
-        <div class="element">
-          <h2> Caso de estudio : Operaciones de cobertura de riesgo realizadas por ECOPETROL (2014) </h2>
-          <p>
-            Se realizo un caso de estudio en el que analizando el suministro del petroleo a nivel mundial y el precio del activo de la empresa colombiana en diferentes mercados se determinaron estrategias basadas en la ingenieria financiera para cubrir la empresa y reducir los efectos de la volatilidad del precio del petroleo para cumplir los objetivos de cobertura financiera.
-          </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>Wolfram Mathematica</li>
-          </ul>
-        </div>
+      <div class="element expandableContainer bg-url" data-bgurl="http://2eof2j3oc7is20vt9q3g7tlo5xe.wpengine.netdna-cdn.com/wp-content/uploads/2013/10/bp-cluster.jpg">
+        <h1>PyOS (2015)</h1>
+        <p class="expandableSection">
+          Emulador de consola compartida para enviar comandos UNIX a un cluster beowulf que arranca desde una sola instancia centOS y propaga el sistema operativo mediante un boot por red.
+        </p>
+      </div>
 
-        <div class="element">
-          <h2>Financial Sentiment analysis with twitter (2013)</h2>
-          <p>
-            Se implemento una aplicacion que alimentada del stream de twitter buscaba tweets relacionados con algun activo de la bolsa (NYSE, NASDAQ y BVC) , y mediante un modelo bayesiano trataba de correlacionar el sentimiento del tweet con el precio del activo.
-          </p>
-          <h4>Tecnologias</h4>
-          <ul class="tech">
-            <li>pytweet</li>
-            <li>numpy</li>
-            <li>Python</li>
-          </ul>
+
+
+      <div class="element expandableContainer bg-url" data-bgurl="http://i.imgur.com/jALSZyt.png">
+        <h1> Caso de estudio : Operaciones de cobertura de riesgo realizadas por ECOPETROL (2014) </h1>
+        <p class="expandableSection">
+         Se realizó un caso de estudio en el que analizando el suministro del petróleo a nivel mundial y el precio del activo de la empresa colombiana en diferentes mercados se determinaron estrategias basadas en la ingenieria financiera para cubrir la empresa y reducir los efectos de la volatilidad del precio del petroleo para cumplir los objetivos de cobertura financiera.
+        </p>
+
+        <div>
+          <h3>Vea el caso de estudio</h3>
+          <a href="files/ecop.pdf" class="link">Articulo</a>
         </div>
+      </div>
+
+      <div class="element expandableContainer bg-url" data-bgurl="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/101099/width926/image-20151106-16242-prvdh8.jpg">
+        <h1>Financial Sentiment analysis with twitter (2013)</h1>
+        <p class="expandableSection">
+         Se implementó una aplicacion que alimentada del stream de twitter buscaba tweets relacionados con algun activo de la bolsa (NYSE, NASDAQ y BVC) , y mediante un modelo bayesiano trataba de correlacionar el sentimiento del tweet con el precio del activo.
+        </p>
       </div>
     </div>
   </div>
@@ -123,9 +127,9 @@
 
   <div class="rest">
     <div class="menu">
-      <a href="index.html">home</a>
-      <a href="blog/index.html">Blog</a>
       <a href="cv.html">CV</a>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
     </div>
      <div class="social">
        <a href="https://github.com/jcliberatol"><i class="fa fa-github" ></i></a>
@@ -134,11 +138,13 @@
        <a href="https://twitter.com/jcliberatol"><i class="fa fa-twitter" ></i></a>
      </div>
      <div class="mail">
-       mail : jcliberatol <b>at</b> unal <b>dot</b> edu <b>dot</b> co
+       mail : jcliberatol <b>@</b> unal <b>.</b> edu <b>.</b> co
      </div>
   </div>
 
 </body>
 <script type="text/javascript" src="js/main.js">
+</script>
+<script type="text/javascript" src="js/backgroundable.js">
 </script>
 </html>
