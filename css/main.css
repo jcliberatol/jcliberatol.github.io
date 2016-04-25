@@ -1,3 +1,11 @@
+.pgweb{
+  margin : 10px;
+  padding : 10px;
+  background-color : rgba(20,150,200,0.2);
+  position : fixed;
+  color : rgba(10,100,150,0.9);
+}
+
 .social a{
   color: rgba(8, 96, 208, 1);
   font-size: 18px;
