@@ -13,3 +13,13 @@ $('.expandableContainer').on('mouseenter',function (e) {
     }
   })
 })
+
+expandall = function() {
+  $(".expandableSection").css("display","block")
+}
+
+hideall = function() {
+  $(".expandableSection").css("display","none")
+}
+
+hideall();
