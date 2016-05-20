@@ -211,6 +211,9 @@ box-shadow: 1px 0px 2px 2px rgba(5, 94, 136, 1);
   border : dashed rgba(180,230,252,0.8) 1px;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
 
 .date {
   color: gray;
