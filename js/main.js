@@ -32,7 +32,7 @@ var init = function () {
   //Create the div array.
   all.squares = [];
   all.data = [];
-  for (var i = 0; i < 40; i++) {
+  for (var i = 0; i < 100; i++) {
     all.squares[i] = $('<div></div>');
     all.squares[i].css("width",15 + 75*Math.random()+"px");
     all.squares[i].css("height",2+Math.random()*20+"px");
