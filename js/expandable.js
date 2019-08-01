@@ -22,4 +22,4 @@ hideall = function() {
   $(".expandableSection").css("display","none")
 }
 
-showall();
+hideall();
