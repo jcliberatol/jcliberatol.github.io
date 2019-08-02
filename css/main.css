@@ -20,15 +20,15 @@
 }
 .page {
   margin: auto;
-  max-width : 95vw;
-  min-width: 90vh;
+  max-width : 80vw;
+  max-height: 80vh;
   padding: 15px;
   -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
 -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
 box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
 background-color: white;
-  height: 98vh;
-  width: 98vw;
+  height: 80vh;
+  width: 80vw;
   margin: auto;
   overflow: hidden;
 }
