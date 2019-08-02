@@ -1,5 +1,7 @@
 var time = 0;
 var all = {};
+var scrwid = window.outerWidth
+var scrhei = window.outerHeight
 
 function transf(el,rx,ry,tx,ty,tz) {
   el.css("transform","rotateX("+rx+"deg) rotateY("+
@@ -11,7 +13,7 @@ function transf(el,rx,ry,tx,ty,tz) {
 var render = function () {
   time += 0.1;
   for (var i = 0; i < all.squares.length; i++) {
-    if(all.data[i].tx < 5000){
+    if(all.data[i].tx < scrwid){
       all.data[i].tx += (1+Math.random()*5)*all.data[i].speed;
     }else{
       all.data[i].tx = -500*Math.random()-500;
@@ -36,7 +38,7 @@ var init = function () {
     all.squares[i] = $('<div></div>');
     all.squares[i].css("width",15 + 7*Math.random()+"px");
     all.squares[i].css("height",2+Math.random()*20+"px");
-    all.squares[i].css("position","absolute");
+    all.squares[i].css("position","relative");
     var topos = (Math.random())*400+"px";
     console.log(topos);
     all.squares[i].css("top",topos);
