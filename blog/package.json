@@ -4,7 +4,7 @@
   "private": true,
   "resolutions": {
   "@types/react": "^16.8.24",
-  "homepage" : "https://jcliberatol.github.io/blog/build"
+  "homepage" : "https://jcliberatol.github.io/blog/"
 },
   "dependencies": {
     "@types/jest": "24.0.13",
