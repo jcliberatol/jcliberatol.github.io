@@ -4,7 +4,7 @@ body {
 
 .link {
    border-radius : 10px;
-   color : rgba(80,150,250,1);
+   color: #1e2856;
    /* background-color: rgba(80, 150, 250, 0.05); */
    /* border : dashed rgba(180,230,252,0.8) 1px; */
    text-decoration : underline;
@@ -51,7 +51,6 @@ p {
 .page {
   margin: auto;
   max-width : 900px;
-  min-width: 320px;
   padding: 15px;
   -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
 -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.43);
@@ -60,14 +59,43 @@ background-color: white;
 }
 
 h2 {
-  color : rgba(8, 96, 208, 1);
+  color: #1e2856;
 }
 
 h1 {
-  color: rgba(5, 94, 136, 1);
+  color: #1e2856;
   border-bottom: 3px solid;
 }
+.inlinetitlecont h4 {
+  display: inline-block;
+  margin: auto;
+}
 
+.inlinetitlecont {
+    display: flex;
+    
+
+}
+.flexel.elskill {
+    width: 30%;
+    margin: auto;
+    list-style-type: none;
+    border-left: solid 7px #1e2856;
+    mix-blend-mode: luminosity;
+    min-height: 219px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .flexel.elskill {
+    width: 90%;
+  }
+}
+
+
+.elskill ul li {
+    list-style-type: none;
+}
 .subsection > ul > li, .tech > li{
   display: inline-block;
   /* padding: 5px; */
@@ -97,7 +125,6 @@ h1 {
 .subsection {
   margin: auto;
   /* padding: 25px; */
-  width: 700px;
   margin-top : 10px;
   /* border-top: 0px; */
   margin-bottom : 10px;
@@ -152,12 +179,13 @@ h1 {
 
 .flexw > .element {
   max-width: 700px;
+  width: 700px;
+  border-left: 7px solid #1e2856;
 }
 
 
 .element {
   background-color: rgba(255, 255, 255, 0.2);
-  width: 600px;
   margin: auto;
   padding: 25px;
   /* -webkit-box-shadow: 1px 0px 1px 1px rgba(5, 94, 136, 1); */
@@ -174,8 +202,8 @@ h1 {
 }
 
 .tech {
-  border-top: solid 4px rgba(10, 172, 246, 1);
-  background-color: rgba(180, 230, 252, 0.2);
+  border-top: solid 4px #1e2856;
+  background-color: #1e285640;
   margin-top: 0px;
   padding: 5px;
 }
@@ -189,17 +217,18 @@ h1 {
   text-align: center;
   font-size: 12px;
   padding: 5px;
-  background-color: rgba(180, 230, 252, 0.2);
+  background-color: #1e2856;
+  color: white;
   margin-bottom: 0;
 }
 
 
 .ed > .element > ul > li {
-  border-left: solid 7px rgba(10, 172, 246, 1);
+  border-left: solid 7px #1e2856;
   margin: 2px;
   padding: 2px;
   padding-left : 12px;
-    -moz-box-shadow:    -2px 0px 1px 1px #ccc;
+  -moz-box-shadow:    -2px 0px 1px 1px #ccc;
   -webkit-box-shadow: -2px 0px 1px 1px #ccc;
   box-shadow:         -2px 0px 1px 1px #ccc;
   display: block;
@@ -271,7 +300,7 @@ h1 {
 
 
 .contact {
-  color : rgba(8, 96, 208, 1);
+  color: 1e2856;
   margin: 2px;
   font-size: 12px;
   text-align: center;
@@ -293,22 +322,21 @@ h1 {
 }
 
 .title2 {
-  color: rgba(5, 94, 136, 1);
+  color: 1e2856;
   font-size: 55px;
   font-weight: bolder;
   margin-bottom: 0px;
   -webkit-transform: rotateX(-10deg) rotateY(10deg);
-     -moz-transform: rotateX(-10deg) rotateY(10deg);
-   text-shadow:
+  -moz-transform: rotateX(-10deg) rotateY(10deg);
+  text-shadow:
        1px 1px 0 #03234c,
      -1px -1px 0 #03234c,
       1px -1px 0 #03234c,
       -1px 1px 0 #03234c,
        1px 1px 0 #03234c;
-       padding-bottom: 0px;
-       line-height: 0.9em;
-       z-index: -1;
-
+  padding-bottom: 0px;
+  line-height: 0.9em;
+  z-index: -1;
 }
 
 .rotating {
@@ -317,19 +345,18 @@ h1 {
 }
 
 .subtitle2 {
-  color: rgba(5, 94, 136, 1);
+  color: 1e2856;
   font-size: 25px;
   margin-top: 0px;
   -webkit-transform: rotateX(-10deg) rotateY(15deg);
-     -moz-transform: rotateX(-10deg) rotateY(15deg);
-
-     text-shadow:
+  -moz-transform: rotateX(-10deg) rotateY(15deg);
+  text-shadow:
          1px 1px 0 #03234c,
        -1px -1px 0 #03234c,
         1px -1px 0 #03234c,
         -1px 1px 0 #03234c,
          1px 1px 0 #03234c;
-         padding-top: 0px;
+  padding-top: 0px;
 }
 
 .bighead {
