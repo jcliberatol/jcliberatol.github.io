@@ -75,10 +75,19 @@
   <script>
 
     //Setup here
-    d3.csv("datasets/WeAreDascirePeople.csv", function(data){
-    console.log(data);
-    console.log(Promise)
-});
+
+    Promise.all([
+    d3.csv("datasets/WeAreDascirePeople.csv"),
+    d3.csv("datasets/WeAreDascireProducts.csv"),
+    d3.csv("datasets/WeAreDascireServices.csv"),
+]).then(function(files) {
+    let people = files[0]
+    let products =  files[1]
+    let services = files[2]
+    console.log(files)
+}).catch(function(err) {
+    // handle error here
+})
 
     var WIDTH = window.innerWidth / 2
     var HEIGHT = window.innerHeight
