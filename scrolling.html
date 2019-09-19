@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <style>
+    body { 
+      margin:0;
+      position:fixed;
+      top:0;right:0;bottom:0;left:0;
+    	font-family: Helvetica, Arial;
+   	}
+    #container {
+      position: relative;
+      z-index: 100;
+    }
+    #sticky { 
+      position: absolute; 
+      top: 0; 
+      right: 0; 
+      width: 50%; 
+      z-index: 50;
+    }
+    .panel {
+      width: 100%;
+      padding-left: 20px;
+      padding-top: 25vh;
+      padding-bottom: 25vh;
+    }
+    .panel p {
+      padding-right: 50%;
+    }
+    .panel:first-child {
+      padding-top: 35vh;
+    }
+    .panel:last-child {
+      padding-bottom: 45vh;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="sticky">
+    
+  </div>
+  <div id="container" style="height: 100vh; overflow: scroll">
+    <div id="content">
+      <div class="panel">
+        <p>This is a block that illustrates some of the tricks I've learned while designing scroll narratives like <a href="www.r2d3.us/visual-intro-to-machine-learning-part-1/" target="_block">A Visual Introduction to Machine Learning</a> and <a href="http://letsfreecongress.org" target="_block">Let's Free Congress</a>. While the animations are much more complicated, the core mechanics are similar</p> <p><em>Let's get scrolling!</em></p>
+      </div>
+      <div class="panel">
+        <p>In traditional animation, motion is linked to time. In Javascript that might be using <code>setInterval</code> to call some render code regularly, with the elapsed time as an input.</p>
+      </div>
+      <div class="panel">
+        <p>In scroll-linked animations, instead of using elapsed time, the <code>scrollTop</code> is used as the driver of motion. The scrollTop value (currently: <span id="currentScrollTop"></span>) can be transformed in various ways for various effects.</p>
+      </div>
+      <div class="panel">
+        <p>On the right, the <code>scrollTop</code> value is used as the input into a <code>d3.scale</code> function. That value is then used as the <code>rotation</code> value on the <code>&lt;g&gt;</code> group.</p>
+      </div>
+      <div class="panel">
+        <p>There are two chunks of code that makes this all work. First is an event handler that records the scroll position. It looks like this:</p>
+        <pre>container
+  .on("scroll.scroller", function() {
+    newScrollTop = container.node().scrollTop
+  });      
+        </pre>
+      </div>
+      <div class="panel">
+        <p>The second piece of code is the render code. Approximately 60 times a second (using <code>window.requestAnimationFrame</code>) it checks if <code>newScrollTop</code> is different from <code>scrollTop</code>. If it is different, then update our graphics accordingly. It looks like this:</p>
+        <pre>var render = function() {
+  // Don't re-render if scroll didn't change
+  if (scrollTop !== newScrollTop) {
+    // Graphics Code Goes Here
+  }
+  window.requestAnimationFrame(render)
+}
+
+window.requestAnimationFrame(render) 
+        </pre>
+        <p>That's the core of it. Although there's a couple other minor tricks that's worth pointing out.</p>
+      </div>
+      <div class="panel">
+        <p>1. <strong>Pacing the Panels</strong>: These panels that contains the text are spaced according to the height of the window, such that just one paragraph is visible at a time.</p> 
+        <p>To achieve this in a responsive way, I use <code>vh</code> units to set the top and bottom padding on each panel. That way, the paragraphs are spaced correctly no matter the size of the screen.</p>
+      </div>
+      <div class="panel">
+        <p>2. <strong>Responsive Timing</strong>: The clock on the right hits 12 just as you finish scrolling, no matter what the screen size is. Getting the animation in sync with scroll requires using the dimensions of container and the screen as input in the animation scaling function.</p>
+        <p>The way this is achieved is through a callback on the <code>window.resize</code> handler. It reads in the relevant dimensions and feeds it back into the <code>.domain</code> of the <code>d3.scale</code> function.</p>
+      </div>
+    </div>
+  </div>
+ 
+  <script>
+    var WIDTH = window.innerWidth / 2
+    var HEIGHT = window.innerHeight
+    
+    var translate = 'translate(' + (WIDTH / 2) + ',' + (HEIGHT / 2) + ')'
+
+    var svg = d3.select("#sticky").append("svg")
+    	.attr('width', WIDTH)
+    	.attr('height', HEIGHT)
+
+    var currentScrollTop = d3.select('#currentScrollTop')
+    
+    var hourLayer = svg.append('g')
+    	.attr('transform', translate)
+    
+    var hourRect = hourLayer.append('rect')
+    	.attr('x', -3)
+    	.attr('y', -87)
+    	.attr('width', 6)
+    	.attr('height', 90)
+    	.attr('fill', '#333')
+    
+    var minuteLayer = svg.append('g')
+    	.attr('transform', translate)
+    
+    var minuteRect = minuteLayer.append('rect')
+    	.attr('x', -2)
+    	.attr('y', -118)
+    	.attr('width', 4)
+    	.attr('height', 120)
+    	.attr('fill', '#333')
+    
+    var body = d3.select('body').node()
+    var container = d3.select('#container')
+    var content = d3.select('#content')
+    
+    var SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
+    var hourHandRotation = d3.scale.linear()
+    	.domain([0, SCROLL_LENGTH])
+    	.range([0, 360])
+    	.clamp(true)
+    
+    var minuteHandRotation = d3.scale.linear()
+    	.domain([0, SCROLL_LENGTH])
+    	.range([0, 360 * 12])
+	    .clamp(true)
+    
+    var scrollTop = 0
+    var newScrollTop = 0
+    
+		container
+  		.on("scroll.scroller", function() {
+      	newScrollTop = container.node().scrollTop
+	    });
+
+    var setDimensions = function() {
+      WIDTH = window.innerWidth / 2
+			HEIGHT = window.innerHeight
+      SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
+      
+      hourHandRotation.domain([0, SCROLL_LENGTH])
+      minuteHandRotation.domain([0, SCROLL_LENTH])
+    }
+    
+    var render = function() {
+      if (scrollTop !== newScrollTop) {
+        scrollTop = newScrollTop
+        
+        var hourHandRotate = hourHandRotation(scrollTop)        
+      	hourLayer.attr('transform', translate + ' rotate(' + hourHandRotate + ')')
+        
+        var minuteHandRotate = minuteHandRotation(scrollTop)        
+      	minuteLayer.attr('transform', translate + ' rotate(' + minuteHandRotate + ')')
+        
+        currentScrollTop.text(scrollTop)
+      }
+      
+      window.requestAnimationFrame(render)
+    }
+    window.requestAnimationFrame(render)
+    
+    window.onresize = setDimensions
+  </script>
+</body>
