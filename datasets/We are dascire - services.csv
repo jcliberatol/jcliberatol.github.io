@@ -1,0 +1,24 @@
+service name,category,description,starting price,unit,unit avg price
+PowerBI Dashboard Creation,Data Visualization,We create a dashboard in powerBI from your sample of data.,100,Charts,20
+Tableau Dashboard,Data Visualization,We create a dashboard in Tableau from your sample of data.,150,Charts,30
+Web Dashboards,Data Visualization,Web interactive dashboards,500,Charts,100
+Web Dashboards from PowerBI/Tableau,Data Visualization,Web interactive dashboards made with samples from powerBI or Tableau or other software,400,Charts,80
+Custom Tableau / PowerBI Plugin,Data Visualization,A Custom Visualization developed to work in your favorite BI Program,200,Plugins,200
+Landing Page,Web design,"A customize landing page for your product according to your brand design and requirements, includes footer and navbar",100,Pages,30
+Web App,Web design,"A web app with sign up & login, users, roles, and profile capabilities, design according to your brand",200,Screens,100
+Stripe Payments,Web design,Stripe payments integration with your website / app and backend,200,Plans,50
+Brand Design,Art,"Our Art team will design your brand according to the image your company wants to transmit, includes logo (for all use cases), colors palettes & samples : (brochure , presentation , , document , invoice spreadsheet)",200,Revisions,50
+Illustration,Art,"A hand made illustration for any of your purposes, if you pay for shipping the final piece (Preserver or framed Art) can be delivered for you at a additional cost",100,Illustrations,100
+Visual Effects,Art,"We edit your videos and add any visual effects that you need, we can also put 3d and data visualization in your videos",300,Scenes,100
+Desktop App,App Development,We create a desktop app with basic features,100,Screens,100
+Data Storytelling,Data Visualization,We create an article that has animated charts that respond to scrolling,200,Charts,100
+Animated CV,Data Visualization,We cure data about your professional life and build a data visualization for your CV,200,Charts,50
+Scraping,Data Science,We create a custom scraper for you that reads data from websites and creates a database from it,100,Pages,100
+Serverless Migration,Data Science,We help you migrate your apps to serverless environments in Google Cloud or AWS where you won't need to worry about scalability or hardware errors.,1000,Services,1000
+Adaptive Test,Education,We create adaptive tests to use in your education,200,Tests,200
+Edx platform,Education,We provision an edx platform instance for you.,500,Courses,250
+VR / AR / Web 3d,Education,We create a 3D VR / AR experience for you,500,Scenes,500
+Test Development,Education,"We help you create a test to measure anything you want, we ensure this test is measured according to international education standards",100,Items,20
+Curriculum Development,Education,"We create curriculum leveraging the expertise from our consultants, this includes article creation, activities, quizzes, projects exams and tutoring",50,Article,50
+Educational Project ,Education,We create all the material for supporting teaching a final project in a University Level Setting,200,Project,200
+Educational Video Content,Education,We create videos teaching in the best way anything you need,100,Minute,10
