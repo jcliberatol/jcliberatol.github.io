@@ -40,12 +40,12 @@
 
 <body>
   <div id="sticky">
-    Stickee
+    
   </div>
   <div id="container" style="height: 100vh; overflow: scroll">
     <div id="content">
       <div class="panel">
-        <p>Panel 1</p>
+        <p>A data visualization & analytics company that helps your business leverage data for marketing, operations and learning</p>
       </div>
       <div class="panel">
         Panel 2
@@ -73,6 +73,12 @@
   </div>
  
   <script>
+
+    //Setup here
+    d3.csv("datasets/WeAreDascirePeople.csv", function(data){
+    console.log(data);
+});
+
     var WIDTH = window.innerWidth / 2
     var HEIGHT = window.innerHeight
     
