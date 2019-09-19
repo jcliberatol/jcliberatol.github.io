@@ -2,6 +2,7 @@
 <head>
   <meta charset="utf-8">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script src="./js/radarChart.js"></script>
   <style>
     body { 
       margin:0;
@@ -11,30 +12,34 @@
    	}
     #container {
       position: relative;
-      z-index: 100;
+      z-index: 10;
     }
     #sticky { 
       position: absolute; 
       top: 0; 
       right: 0; 
       width: 50%; 
-      z-index: 50;
+      z-index: 5000;
     }
     .panel {
-      width: 100%;
-      padding-left: 20px;
-      padding-top: 25vh;
-      padding-bottom: 25vh;
+      width: 90%;
+      height: 50vh;
+      margin: auto;
+      padding-top: 20vh;
+      padding-bottom: 20vh;
     }
     .panel p {
       padding-right: 50%;
     }
-    .panel:first-child {
-      padding-top: 35vh;
-    }
-    .panel:last-child {
-      padding-bottom: 45vh;
-    }
+
+    .legend {
+        font-family: 'Raleway', sans-serif;
+        fill: #333333;
+      }
+      
+      .tooltip {
+        fill: #333333;
+      }
   </style>
 </head>
 
@@ -45,130 +50,234 @@
   <div id="container" style="height: 100vh; overflow: scroll">
     <div id="content">
       <div class="panel">
-        <p>A data visualization & analytics company that helps your business leverage data for marketing, operations and learning</p>
+        <img src="https://i.imgur.com/rPG1O0q.png" alt="Smiley face" style="height:30vh" >
+
+        <p>A data visualization & analytics consultancy with a specialty in education and healthcare</p>
       </div>
       <div class="panel">
-        Panel 2
+        <h3> - We do projects in : Healthcare</h3>
+        <img src="https://i.imgur.com/J14J63t.png" alt="Smiley face" style="width:20vw" >
+        <p>Sappiens - Find your medical specialist today</p>
+        <p><a href="sappiens.com.co">Sappiens.com.co<a></p>
+        <h5>Healthcare Platform</h5>
       </div>
       <div class="panel">
-        <p>Panel 3<span id="currentScrollTop"></span>) </p>
+        <h3> - We do projects in : Education</h3>
+        <img src="https://i.imgur.com/RUXDOwM.png" alt="Smiley face" style="width:20vw" >
+        <p>GTO Report - web based game theory
+optimization tool for poker study,
+analyze your games through the whole
+decision tree </p>
+        <p><a href="pokerviz.web.app">pokerviz.web.app<a></p>
+        <h5>Visualization based elearning</h5>
       </div>
       <div class="panel">
-        <p>Panel 4 </p>
+        <h3> - We do projects in - Education</h3>
+        <img src="https://i.imgur.com/XPZESjN.png" alt="Smiley face" style="width:10vw" >
+        <p>Open English </p>
+        <p><a href="https://www.openenglish.com/junior/">openenglish.com<a>
+
+We developed a computer adaptive assessment that shortened the tests in approximately 30% of the original length while keeping the scoring accuracy</p>
+        <h5>Adaptive testing engine</h5>
       </div>
       <div class="panel">
-        <p>Panel 5</p>
-        
+        <h3> - We do projects in - Education</h3>
+        <img src="https://i.imgur.com/V8IPeDK.png" alt="Smiley face" style="width:10vw" >
+        <p>Next U
+        We lead the content creation for the big data course. </p>
       </div>
       <div class="panel">
-        <p>Hey</p>
+        <h3> - We do projects in - Healthcare</h3>
+        <img src="https://i.imgur.com/uNaPYql.gif" alt="Smiley face" style="width:30vw" >
+        <p>UnitusTI Dashboards</p>
       </div>
       <div class="panel">
-        <p>Six</p>
-      </div>
-      <div class="panel">
-        <p>seven</p>
+        <h3> - We do projects in - You ?</h3>
+        <p>juan@dascire.com</p>
+        <a href="https://www.dascire.com/">dascire.com<a>
+        <h5>Explore data visualization</h5>
       </div>
     </div>
   </div>
  
   <script>
 
-    //Setup here
+var data = [
+            [//Sappiens
+            {axis:"Education",value:0.0},
+            {axis:"Web Design",value:0.0},
+            {axis:"Visualization",value:0.0},
+            {axis:"Art",value:0.0},
+            {axis:"Data Science",value:0.0},
+            {axis:"Healthcare",value:0.0}    
+            ]
+          ];
 
-    Promise.all([
-    d3.csv("datasets/WeAreDascirePeople.csv"),
-    d3.csv("datasets/WeAreDascireProducts.csv"),
-    d3.csv("datasets/WeAreDascireServices.csv"),
-]).then(function(files) {
-    let people = files[0]
-    let products =  files[1]
-    let services = files[2]
-    console.log(files)
-}).catch(function(err) {
-    // handle error here
-})
 
-    var WIDTH = window.innerWidth / 2
-    var HEIGHT = window.innerHeight
-    
-    var translate = 'translate(' + (WIDTH / 2) + ',' + (HEIGHT / 2) + ')'
 
-    var svg = d3.select("#sticky").append("svg")
-    	.attr('width', WIDTH)
-    	.attr('height', HEIGHT)
+var WIDTH = window.innerWidth / 2
+var HEIGHT = window.innerHeight
 
-    var currentScrollTop = d3.select('#currentScrollTop')
-    
-    var hourLayer = svg.append('g')
-    	.attr('transform', translate)
-    
-    var hourRect = hourLayer.append('rect')
-    	.attr('x', -3)
-    	.attr('y', -87)
-    	.attr('width', 6)
-    	.attr('height', 90)
-    	.attr('fill', '#333')
-    
-    var minuteLayer = svg.append('g')
-    	.attr('transform', translate)
-    
-    var minuteRect = minuteLayer.append('rect')
-    	.attr('x', -2)
-    	.attr('y', -118)
-    	.attr('width', 4)
-    	.attr('height', 120)
-    	.attr('fill', '#333')
-    
-    var body = d3.select('body').node()
-    var container = d3.select('#container')
-    var content = d3.select('#content')
-    
-    var SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
-    var hourHandRotation = d3.scale.linear()
-    	.domain([0, SCROLL_LENGTH])
-    	.range([0, 360])
-    	.clamp(true)
-    
-    var minuteHandRotation = d3.scale.linear()
-    	.domain([0, SCROLL_LENGTH])
-    	.range([0, 360 * 12])
-	    .clamp(true)
-    
-    var scrollTop = 0
-    var newScrollTop = 0
-    
-		container
-  		.on("scroll.scroller", function() {
-      	newScrollTop = container.node().scrollTop
-	    });
+var translate = 'translate(' + (WIDTH / 2) + ',' + (HEIGHT / 2) + ')'
 
-    var setDimensions = function() {
-      WIDTH = window.innerWidth / 2
-			HEIGHT = window.innerHeight
-      SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
-      
-      hourHandRotation.domain([0, SCROLL_LENGTH])
-      minuteHandRotation.domain([0, SCROLL_LENTH])
-    }
-    
-    var render = function() {
-      if (scrollTop !== newScrollTop) {
+var transitionRun = false;
+
+var svg = d3.select("#sticky").append("svg")
+    .attr('width', WIDTH)
+    .attr('height', HEIGHT)
+
+
+
+var color = d3.scale.ordinal()
+        .range(["#0084aa","#009da9","##00a99d","#00ab9b","#00b189","##01b587"]);
+        margin = {top: 100, right: 100, bottom: 100, left: 100};
+      var radarChartOptions = {
+        w: WIDTH * 0.6,
+        h: HEIGHT * 0.5,
+        margin: margin,
+        maxValue: 0.5,
+        levels: 5,
+        roundStrokes: true,
+        color: color
+      };
+      //Call function to draw the Radar chart
+      RadarChart("#sticky", data, radarChartOptions);
+
+
+
+var body = d3.select('body').node()
+var container = d3.select('#container')
+var content = d3.select('#content')
+
+var SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
+
+var scrollTop = 0
+var newScrollTop = 0
+
+container
+    .on("scroll.scroller", function() {
+        newScrollTop = container.node().scrollTop
+    });
+
+var setDimensions = function() {
+    WIDTH = window.innerWidth / 2
+    HEIGHT = window.innerHeight
+    SCROLL_LENGTH = content.node().getBoundingClientRect().height - HEIGHT
+}
+
+var render = function() {
+    if (scrollTop !== newScrollTop) {
+      //Number of panels - 1
+      var npanel = 6
+        var index = ((newScrollTop/SCROLL_LENGTH)*6)
         scrollTop = newScrollTop
-        
-        var hourHandRotate = hourHandRotation(scrollTop)        
-      	hourLayer.attr('transform', translate + ' rotate(' + hourHandRotate + ')')
-        
-        var minuteHandRotate = minuteHandRotation(scrollTop)        
-      	minuteLayer.attr('transform', translate + ' rotate(' + minuteHandRotate + ')')
-        
-        currentScrollTop.text(scrollTop)
-      }
-      
-      window.requestAnimationFrame(render)
+        var nind = 1;
+        if (index > nind && index < nind+1) {
+          data = [
+            [//Sappiens
+            {axis:"Education",value:0.0},
+            {axis:"Web Design",value:index-nind},
+            {axis:"Visualization",value:0.0},
+            {axis:"Art",value:0.0},
+            {axis:"Data Science",value:0.0},
+            {axis:"Healthcare",value:index-nind}    
+            ]
+          ];
+        }
+        nind ++;
+        if (index > nind && index < nind+1) {
+          data = [
+            [//GTO Report
+            {axis:"Education",value:index-nind},
+            {axis:"Web Design",value:1+index-nind},
+            {axis:"Visualization",value:index-nind},
+            {axis:"Art",value:0.0},
+            {axis:"Data Science",value:index-nind},
+            {axis:"Healthcare",value:1}    
+            ]
+          ];
+        }
+        nind ++;
+        if (index > nind && index < nind+1) {
+          data = [
+            [//OEJ
+            {axis:"Education",value:1+index-nind},
+            {axis:"Web Design",value:2},
+            {axis:"Visualization",value:1},
+            {axis:"Art",value:0.0},
+            {axis:"Data Science",value:1+index-nind},
+            {axis:"Healthcare",value:1}    
+            ]
+          ];
+        }
+        nind ++;
+        if (index > nind && index < nind+1) {
+          data = [
+            [//nextu
+            {axis:"Education",value:2+index-nind},
+            {axis:"Web Design",value:2},
+            {axis:"Visualization",value:1+index-nind},
+            {axis:"Art",value:0.0},
+            {axis:"Data Science",value:2+index-nind},
+            {axis:"Healthcare",value:1}    
+            ]
+          ];
+        }
+        nind ++;
+        if (index > nind && index < nind+1) {
+          data = [
+            [//dascire
+            {axis:"Education",value:3+(-index+nind)*2},
+            {axis:"Web Design",value:2+(-index+nind)},
+            {axis:"Visualization",value:2+(-index+nind)*1},
+            {axis:"Art",value:(index-nind)},
+            {axis:"Data Science",value:3+(-index+nind)*2},
+            {axis:"Healthcare",value:1}    
+            ],
+          [//OEJ
+            {axis:"Education",value:(index-nind)},
+            {axis:"Web Design",value:(index-nind)*0.3},
+            {axis:"Visualization",value:(index-nind)*0.3},
+            {axis:"Art",value:(index-nind)*0.3},
+            {axis:"Data Science",value:index-nind},
+            {axis:"Healthcare",value:(index-nind)*0.3}    
+            ],
+            [//nextu
+            {axis:"Education",value:index-nind},
+            {axis:"Web Design",value:(index-nind)*0.3},
+            {axis:"Visualization",value:index-nind},
+            {axis:"Art",value:(index-nind)*0.3},
+            {axis:"Data Science",value:index-nind},
+            {axis:"Healthcare",value:(index-nind)*0.3}    
+            ],
+            [//GTO Report
+            {axis:"Education",value:index-nind},
+            {axis:"Web Design",value:index-nind},
+            {axis:"Visualization",value:index-nind},
+            {axis:"Art",value:(index-nind)*0.3},
+            {axis:"Data Science",value:index-nind},
+            {axis:"Healthcare",value:(index-nind)*0.3}    
+            ],
+            [//Sappiens
+            {axis:"Education",value:(index-nind)*0.3},
+            {axis:"Web Design",value:index-nind},
+            {axis:"Visualization",value:(index-nind)*0.3},
+            {axis:"Art",value:(index-nind)*0.3},
+            {axis:"Data Science",value:(index-nind)*0.3},
+            {axis:"Healthcare",value:index-nind}    
+            ]
+          ];
+        }
+
+        RadarChart("#sticky", data, radarChartOptions);
     }
+
     window.requestAnimationFrame(render)
+}
+window.requestAnimationFrame(render)
+
+window.onresize = setDimensions
+
     
-    window.onresize = setDimensions
   </script>
 </body>
