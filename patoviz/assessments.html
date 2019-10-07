@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+
+		<title>UnitusTI Visualization Catalog</title>
+		<meta name="description" content="UnitusTi Visualization Catalog" />
+		<meta name="author" content="Juan Liberato" />
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.js"
+		></script>
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/d3-queue/3.0.7/d3-queue.js"
+		></script>
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/d3-request/1.0.6/d3-request.js"
+		></script>
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"
+		></script>
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/dc/3.1.3/dc.js"
+		></script>
+		<script
+			type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/reductio/0.6.3/reductio.js"
+		></script>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://cdnjs.cloudflare.com/ajax/libs/dc/3.1.3/dc.css"
+		/>
+		<link rel="stylesheet" type="text/css" href="assessments.css" />
+	</head>
+
+	<body>
+		<h1>Assessments Dashboard</h1>
+
+		<div class="dashboardContainer">
+			<h2>Clients and Users</h2>
+			<div class="dashrow">
+				
+				<div class="chart">
+					<h3>Users</h3>
+					<div class="graph" id="teacher_filter"></div>
+				</div>
+				<div class="chart">
+					<h3>Clients</h3>
+					<div class="graph" id="student_filter"></div>
+				</div>
+				<div class="dashcol chart" id="assigned_column">
+					<div class="">
+						<h3>
+							Total Clients :
+							<span
+								class="bigNumber"
+								id="enrolled_students"
+							></span>
+						</h3>
+					</div>
+					<div class="">
+						<div class="table" id="assigned_students"></div>
+					</div>
+				</div>
+			</div>
+			<h2>Assessments Progress</h2>
+			<div class="dashrow">
+				<div class="chart">
+					<h3>Progress by Client</h3>
+					<div
+						class="bigNumber AngledTags"
+						id="assessment_state"
+					></div>
+				</div>
+				<div class="chart">
+					<div class="bigNumber" id="assessment_table"></div>
+				</div>
+				
+			</div>
+			<div class="dashrow">
+				<div class="chart">
+					<h3>Assessments List</h3>
+					<div class="bigNumber " id="assessment_names"></div>
+				</div>
+				<div class="chart">
+					<h3>Assessments Status</h3>
+					<div class="bigNumber " id="assessment_status_pie"></div>
+				</div>
+				
+				<div class="dashcol" id="assigned_column">
+				<div class="chart">
+					<h3>Execution Dates</h3>
+					<div class="bigNumber " id="assessment_execution"></div>
+				</div>
+				<div class="chart">
+					<h3>Finish Dates</h3>
+					<div class="bigNumber " id="assessment_finish"></div>
+				</div></div>
+			</div>
+
+			<h2>Assessments Scores</h2>
+			<div class="dashrow">
+				
+				<div class="chart">
+					<h3>Sections</h3>
+					<div class="bigNumber" id="section_scores"></div>
+				</div>
+
+				<div class="chart">
+					<h3>Score Category</h3>
+					<div class="bigNumber" id="type_scores"></div>
+				</div>
+
+				<div class="chart">
+					<h3>Score Subcategory</h3>
+					<div class="bigNumber" id="cat_scores"></div>
+				</div>
+				<div class="chart">
+					<h3>Score by Date</h3>
+					<div class="bigNumber" id="date_scores"></div>
+				</div>
+			</div>
+				<div class="dashrow">
+				<div class="chart">
+					<div class="bigNumber" id="assessment_scores"></div>
+				</div>
+				<div class="chart">
+					<h3>Scores by Client </h3>
+					<div class="bigNumber" id="bp1">
+					</div>
+				</div>
+			</div>
+			
+			<div class="dashrow">
+				
+				<div class="chart">
+					<h3>Scores by Category </h3>
+					<div class="bigNumber" id="bp2">
+					</div>
+				</div>
+				<div class="chart">
+					<h3>Scores by Section </h3>
+					<div class="bigNumber" id="bp3">
+					</div>
+				</div>
+				
+			</div>
+			<div class="dashrow">
+				
+				
+				
+			</div>
+		</div>
+		
+		</div>
+		<script type="text/javascript" src="/js/assessments.js"></script>
+	</body>
+</html>

@@ -1,0 +1,121 @@
+div#assessment_names,#cat_scores,#section_scores {
+    overflow-y: scroll;
+    max-height: 300px
+}
+
+.chart {
+    margin: auto;
+}
+td.dc-table-column {
+    padding: 2px;
+}
+
+#assessment_table,#assessment_scores {
+    max-height: 300px;
+    min-height: 300px;
+    overflow-y: scroll;
+}
+
+#assessment_table td.dc-table-column._1 {
+    max-width: 200px;
+}
+
+#assessment_table,#assessment_scores td {
+    padding-right: 6px;
+}
+  
+#assigned_students tr.dc-table-section.dc-table-group {font-weight: bold;font-size: 18px;}
+
+#assigned_students tr.dc-table-row {
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
+    padding-left: 5px;
+    background-color: #008eff;
+    color: white;
+    border-radius: 7px;
+    text-shadow: 0px 0px 3px black;
+    box-shadow: 0px 0px 3px 0px black;
+    padding-right: 5px;
+}
+div#student_filter {
+    max-height: 300px;
+    overflow-y: scroll;
+    min-height: 300px;
+    margin : auto;
+}
+h2{
+    text-align: center;
+}
+
+::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar
+{
+  width: 10px;
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #0084ed;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+div#assigned_students {
+    max-height: 300px;
+    overflow-y: scroll;
+    min-height: 300px;
+    margin : auto;
+    overflow-x: hidden;
+}
+
+#assigned_students td.dc-table-label {
+    padding: 6px;
+}
+
+div#teacher_filter {
+    max-height: 300px;
+    overflow-y: scroll;
+    min-height: 300px;
+    margin : auto;
+}
+
+.dc-chart g.row text {
+    fill: #111;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-shadow: 0px 0px 5px white;
+}
+
+text.pie-slice.pie-label.external{
+    fill: #111;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-shadow: 0px 0px 5px white;
+}
+
+.dc-legend-item text{
+    fill: #111;
+    font-weight: bold;
+    cursor: pointer;
+    text-shadow: 0px 0px 5px white;
+}
+
+.dashrow {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,711 @@
+last_name,middle_name,name,name1,description,execution_date,finish_date,status,id_assessment_execution,score_label,score_subcategory,score_value,id_section,title
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-05-23 20:19:07","2017-05-23 20:19:30",FINISHED,27,Percentage,NULL,100,396,Greetings
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-05-23 20:19:07","2017-05-23 20:19:30",FINISHED,27,Percentage,NULL,0,397,"Reciprocating questions"
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-06-30 21:26:31","2017-06-30 21:26:46",FINISHED,30,Percentage,NULL,100,396,Greetings
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-06-30 21:26:31","2017-06-30 21:26:46",FINISHED,30,Percentage,NULL,0,397,"Reciprocating questions"
+Smith,,James,"EAFIT placement CEFR","This is a test assesment for eafit","2017-07-11 18:25:25","2017-07-11 18:25:38",FINISHED,35,Percentage,NULL,0,NULL,NULL
+James,,Justin,"Social Skills Assessment","For ages 6-12","2017-07-13 17:54:41","2017-07-13 17:55:28",FINISHED,36,Percentage,NULL,0,396,Greetings
+James,,Justin,"Social Skills Assessment","For ages 6-12","2017-07-13 17:54:41","2017-07-13 17:55:28",FINISHED,36,Percentage,NULL,100,397,"Reciprocating questions"
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 16:27:58","2017-07-20 19:49:37",FINISHED,7,Percentage,NULL,60,NULL,NULL
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 16:27:58","2017-07-20 19:49:37",FINISHED,7,Percentage,NULL,60,NULL,NULL
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 16:27:58","2017-07-20 19:49:37",FINISHED,7,Percentage,NULL,60,NULL,NULL
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 16:27:58","2017-07-20 19:49:37",FINISHED,7,Percentage,NULL,60,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,E,NULL,2.0258,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,I,NULL,4.993,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,C,NULL,1.3788,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,R,NULL,-3.6905,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,A,NULL,2.9051,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED,41,S,NULL,3.443,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,E,NULL,-1.096,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,S,NULL,0.9503,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,C,NULL,0.791,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,R,NULL,-3.6905,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,A,NULL,-0.3728,NULL,NULL
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED,42,I,NULL,3.4975,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,I,NULL,1.8811,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,R,NULL,-5.7633,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,C,NULL,-4.5123,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,A,NULL,1.6121,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,S,NULL,-0.838,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,E,NULL,-1.8536,NULL,NULL
+Black,,Joseph,"Social Skills Assessment","For ages 6-12","2017-07-24 19:26:24","2017-07-24 19:28:40",FINISHED,46,Percentage,NULL,100,396,Greetings
+Black,,Joseph,"Social Skills Assessment","For ages 6-12","2017-07-24 19:26:24","2017-07-24 19:28:40",FINISHED,46,Percentage,NULL,0,397,"Reciprocating questions"
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,R,NULL,-3.6695,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,C,NULL,-1.6109,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,A,NULL,1.2162,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,I,NULL,2.7294,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,E,NULL,-1.2404,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED,47,S,NULL,1.3371,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,R,NULL,-3.3054,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,C,NULL,-0.5267,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,E,NULL,1.5933,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,I,NULL,-0.1744,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,A,NULL,1.6764,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED,48,S,NULL,-0.5996,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,I,NULL,2.2315,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,E,NULL,0.5866,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,S,NULL,3.6266,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,R,NULL,-3.5611,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,A,NULL,0.637,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED,49,C,NULL,2.3042,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,C,NULL,-4.5123,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,E,NULL,-1.8536,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,I,NULL,1.8811,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,R,NULL,-5.7633,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,S,NULL,-0.838,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,A,NULL,1.6121,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,I,NULL,1.8811,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,C,NULL,-4.5123,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,R,NULL,-5.7633,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,S,NULL,-0.838,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,E,NULL,-1.8536,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED,45,A,NULL,1.6121,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,C,NULL,-3.0881,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,R,NULL,-6.2222,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,E,NULL,-0.7213,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,S,NULL,-0.1236,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,A,NULL,-0.5445,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED,50,I,NULL,2.8143,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,A,NULL,3.2988,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,C,NULL,1.9381,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,E,NULL,0.4333,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,I,NULL,4.993,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,S,NULL,2.0886,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED,51,R,NULL,-4.0209,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,C,NULL,0.644,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,E,NULL,0.6258,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,I,NULL,0.553,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,S,NULL,-0.1027,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,R,NULL,-0.4144,NULL,NULL
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED,43,A,NULL,-1.173,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,I,NULL,-0.6393,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,R,NULL,-1.5289,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,S,NULL,2.8901,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,E,NULL,2.1912,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,C,NULL,-1.3686,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED,52,A,NULL,2.1022,NULL,NULL
+Ryan,,Jenny,"Social Skills Assessment","For ages 6-12","2017-09-20 15:43:20","2017-09-20 15:43:49",FINISHED,56,Percentage,NULL,0,396,Greetings
+Ryan,,Jenny,"Social Skills Assessment","For ages 6-12","2017-09-20 15:43:20","2017-09-20 15:43:49",FINISHED,56,Percentage,NULL,100,397,"Reciprocating questions"
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,fe,Average,1.5,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,ch,Average,3.5,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,"TOTAL Percentage",NULL,96.648,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,ch,Percentage,99.9767,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,fe,Percentage,93.3193,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED,57,"TOTAL Average",NULL,2.5,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,fe,Percentage,99.9767,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,fe,Average,3.5,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,ch,Percentage,97.725,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,ch,Average,2.0,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,"TOTAL Average",NULL,2.75,NULL,NULL
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED,58,"TOTAL Percentage",NULL,98.8509,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,"TOTAL Percentage",NULL,84.5056,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,ch,Percentage,99.865,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,"TOTAL Average",NULL,1.75,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,fe,Average,0.5,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,ch,Average,3.0,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED,59,fe,Percentage,69.1462,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,fe,Average,3.5,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,"TOTAL Percentage",NULL,96.648,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,ch,Percentage,93.3193,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,ch,Average,1.5,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,"TOTAL Average",NULL,2.5,NULL,NULL
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED,60,fe,Percentage,99.9767,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,"TOTAL Percentage",NULL,95.5221,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,ch,Percentage,97.725,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,fe,Average,1.5,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,fe,Percentage,93.3193,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,"TOTAL Average",NULL,1.75,NULL,NULL
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED,61,ch,Average,2.0,NULL,NULL
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 17:33:11","2017-11-13 17:33:18",INVALID,63,Percentage,NULL,0,NULL,NULL
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 18:56:33","2017-11-13 18:56:40",INVALID,65,Percentage,NULL,100,NULL,NULL
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 23:24:24","2017-11-13 23:24:30",FINISHED,66,Percentage,NULL,100,NULL,NULL
+Michaels,,Daniel,"Social Skills Assessment","For ages 6-12","2017-11-27 22:24:45","2017-11-27 22:25:06",FINISHED,68,Percentage,NULL,0,396,Greetings
+Michaels,,Daniel,"Social Skills Assessment","For ages 6-12","2017-11-27 22:24:45","2017-11-27 22:25:06",FINISHED,68,Percentage,NULL,0,397,"Reciprocating questions"
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:41:30","2017-11-27 22:41:50",INVALID,69,Percentage,NULL,0,526,Greetings
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:41:30","2017-11-27 22:41:50",INVALID,69,Percentage,NULL,0,528,"Group learning skills"
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:41:30","2017-11-27 22:41:50",INVALID,69,Percentage,NULL,0,527,"Reciprocating questions"
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:44:00","2017-11-27 22:44:15",INVALID,70,Percentage,NULL,0,524,"Play Skills"
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:44:00","2017-11-27 22:44:15",INVALID,70,Percentage,NULL,0,526,Greetings
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:44:00","2017-11-27 22:44:15",INVALID,70,Percentage,NULL,0,528,"Group learning skills"
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:44:00","2017-11-27 22:44:15",INVALID,70,Percentage,NULL,0,527,"Reciprocating questions"
+Edwards,,Jack,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:46:03","2017-11-27 22:46:19",INVALID,71,Percentage,NULL,0,524,"Play Skills"
+Edwards,,Jack,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:46:03","2017-11-27 22:46:19",INVALID,71,Percentage,NULL,0,526,Greetings
+Edwards,,Jack,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:46:03","2017-11-27 22:46:19",INVALID,71,Percentage,NULL,0,528,"Group learning skills"
+Edwards,,Jack,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:46:03","2017-11-27 22:46:19",INVALID,71,Percentage,NULL,0,527,"Reciprocating questions"
+Morgan,,Jackson,"Language Skills Assessment","For ages 3-5","2017-11-29 17:30:44","2017-11-29 17:31:14",INVALID,72,Percentage,NULL,0,532,Shapes
+Morgan,,Jackson,"Language Skills Assessment","For ages 3-5","2017-11-29 17:30:44","2017-11-29 17:31:14",INVALID,72,Percentage,NULL,50,533,Animals
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 1","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 21:47:52","2017-11-30 21:48:11",INVALID,73,Percentage,NULL,66,NULL,NULL
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 2","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:01:38","2017-11-30 22:02:00",FINISHED,74,Percentage,NULL,50,539,"Motor skills"
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 2","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:01:38","2017-11-30 22:02:00",FINISHED,74,Percentage,NULL,0,542,"Expressive Language Skills"
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 3","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:14:24","2017-11-30 22:15:03",FINISHED,75,Percentage,NULL,33,NULL,NULL
+Michaels,,Daniel,"Language Skills Assessment","For ages 3-5","2017-12-05 17:13:51","2017-12-05 17:14:02",FINISHED,77,Percentage,NULL,0,532,Shapes
+Michaels,,Daniel,"Language Skills Assessment","For ages 3-5","2017-12-05 17:13:51","2017-12-05 17:14:02",FINISHED,77,Percentage,NULL,0,533,Animals
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-12-22 17:56:50","2017-12-22 17:57:09",INVALID,78,Percentage,NULL,0,NULL,NULL
+Smith,,Client,"[COPY]Social Skills Assessment","For ages 6-12","2017-12-22 18:03:12","2017-12-22 18:03:35",INVALID,79,Percentage,NULL,0,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-06 16:05:09","2018-03-06 16:06:49",FINISHED,80,OHC,NULL,19.785,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-06 16:05:09","2018-03-06 16:06:49",FINISHED,80,Rasch,NULL,4.6407,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-06 16:05:09","2018-03-06 16:06:49",FINISHED,80,Percentage,NULL,99.9998,NULL,NULL
+Morgan,,Jackson,"[COPY]Motor Skills assessment","For children ages 2-6","2018-03-08 21:41:21","2018-03-08 21:41:30",FINISHED,84,Percentage,NULL,0,NULL,NULL
+Morgan,,Jackson,"[COPY]Motor Skills assessment","For children ages 2-6","2018-03-08 21:53:50","2018-03-08 21:54:00",FINISHED,85,Percentage,NULL,50,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-08 23:38:22","2018-03-08 23:42:03",INVALID,86,Percentage,NULL,6.7466,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-08 23:38:22","2018-03-08 23:42:03",INVALID,86,Rasch,NULL,-1.4949,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-08 23:38:22","2018-03-08 23:42:03",INVALID,86,OHC,NULL,12.2891,NULL,NULL
+Tester,,PTI,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-27 17:06:35","2018-03-27 17:07:32",FINISHED,89,Rasch,NULL,2.3367,NULL,NULL
+Tester,,PTI,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-27 17:06:35","2018-03-27 17:07:32",FINISHED,89,Percentage,NULL,99.0271,NULL,NULL
+Tester,,PTI,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-27 17:06:35","2018-03-27 17:07:32",FINISHED,89,OHC,NULL,14.8936,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:03:38","2018-03-30 14:09:35",INVALID,90,Rasch,NULL,0.9575,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:03:38","2018-03-30 14:09:35",INVALID,90,Percentage,NULL,83.0838,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:03:38","2018-03-30 14:09:35",INVALID,90,OHC,NULL,10.1347,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:11:39","2018-03-30 14:22:14",INVALID,91,Rasch,NULL,-3.0629,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:11:39","2018-03-30 14:22:14",INVALID,91,OHC,NULL,13.8492,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:11:39","2018-03-30 14:22:14",INVALID,91,Percentage,NULL,0.1096,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:44:22","2018-03-30 14:49:24",FINISHED,92,Rasch,NULL,2.9494,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:44:22","2018-03-30 14:49:24",FINISHED,92,Percentage,NULL,99.8408,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:44:22","2018-03-30 14:49:24",FINISHED,92,OHC,NULL,14.4162,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:54:04","2018-03-30 15:02:48",FINISHED,93,Rasch,NULL,1.2806,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:54:04","2018-03-30 15:02:48",FINISHED,93,OHC,NULL,13.1265,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:54:04","2018-03-30 15:02:48",FINISHED,93,Percentage,NULL,89.9838,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:09:55","2018-03-30 15:13:15",FINISHED,94,OHC,NULL,14.029,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:09:55","2018-03-30 15:13:15",FINISHED,94,Rasch,NULL,2.4483,NULL,NULL
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:09:55","2018-03-30 15:13:15",FINISHED,94,Percentage,NULL,99.2824,NULL,NULL
+Moore,,Rory,"[COPY][COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:53:15","2018-03-30 15:57:01",FINISHED,95,OHC,NULL,12.9874,NULL,NULL
+Moore,,Rory,"[COPY][COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:53:15","2018-03-30 15:57:01",FINISHED,95,Rasch,NULL,1.293,NULL,NULL
+Moore,,Rory,"[COPY][COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:53:15","2018-03-30 15:57:01",FINISHED,95,Percentage,NULL,90.1992,NULL,NULL
+Bishop,James,Bryan,"Primefaces Assessment","Testing a new assessment","2018-03-30 22:13:23","2018-03-30 22:13:32",FINISHED,98,Percentage,NULL,0,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,I,Rasch,1.3689,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,R,Holland,15.6281,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,S,Holland,16.4758,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,C,Holland,17.0613,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,A,Percentage,85.9614,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,I,Holland,16.5462,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,I,Percentage,91.4485,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,E,Holland,15.7259,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,S,Rasch,1.3428,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,S,Percentage,91.0339,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,E,Percentage,86.6231,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,A,Rasch,1.0786,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,C,Rasch,1.5962,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,R,Rasch,1.0825,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,C,Percentage,94.4781,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,E,Rasch,1.1088,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,A,Holland,15.6134,NULL,NULL
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED,104,R,Percentage,86.0477,NULL,NULL
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,OHC,NULL,13.0,NULL,NULL
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,-0.4077,702,"Story 1.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,0.8965,703,"Story 2.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,0.3414,704,"Story 3.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,1.1951,705,"Story 4.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,2.4002,706,"Story 5.1 "
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Rasch,NULL,1.5907,707,"Story 6.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,34.1763,702,"Story 1.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,81.5,703,"Story 2.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,63.3596,704,"Story 3.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,88.3983,705,"Story 4.1"
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,99.1808,706,"Story 5.1 "
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED,107,Percentage,NULL,94.4165,707,"Story 6.1"
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,RE,Rasch,1.9275,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,RE,Percentage,97.3042,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,RE,Holland,17.5417,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,IN,Rasch,1.9604,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,IN,Percentage,97.5025,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,IN,Holland,17.5754,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,AR,Rasch,1.9784,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,AR,Percentage,97.6056,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,AR,Holland,17.593,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,SO,Rasch,-1.6715,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,SO,Percentage,4.731,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,SO,Holland,1.8043,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,EN,Rasch,-0.6963,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,EN,Percentage,24.3132,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,EN,Holland,5.1332,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,CO,Rasch,-1.6233,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,CO,Percentage,5.2263,NULL,NULL
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED,109,CO,Holland,1.8885,NULL,NULL
+Graph,,Xander,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-07-09 20:12:08","2018-07-10 21:47:05",FINISHED,106,OHC,NULL,9.2704,NULL,NULL
+Graph,,Xander,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-07-09 20:12:08","2018-07-10 21:47:05",FINISHED,106,Rasch,NULL,-1.8783,NULL,NULL
+Graph,,Xander,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-07-09 20:12:08","2018-07-10 21:47:05",FINISHED,106,Percentage,NULL,3.0173,NULL,NULL
+Smith,,Client,"Destructive Behavior Inventory","Answer each item as honestly as possible.","2018-07-11 02:17:51","2018-07-11 02:18:09",FINISHED,110,Percentage,NULL,0,722,"Behavior at Home"
+Smith,,Client,"Destructive Behavior Inventory","Answer each item as honestly as possible.","2018-07-11 02:17:51","2018-07-11 02:18:09",FINISHED,110,Percentage,NULL,50,723,"Behaviors at Work"
+Moore,,Rory,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-08-15 20:36:14","2018-08-15 20:37:35",FINISHED,111,OHC,NULL,12.0,NULL,NULL
+Moore,,Rory,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-08-15 20:36:14","2018-08-15 20:37:35",FINISHED,111,Rasch,NULL,3.4657,NULL,NULL
+Moore,,Rory,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-08-15 20:36:14","2018-08-15 20:37:35",FINISHED,111,Percentage,NULL,99.9736,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-11-02 20:15:33","2018-11-02 20:22:11",FINISHED,112,OHC,NULL,13.0,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-11-02 20:15:33","2018-11-02 20:22:11",FINISHED,112,Rasch,NULL,3.4797,NULL,NULL
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-11-02 20:15:33","2018-11-02 20:22:11",FINISHED,112,Percentage,NULL,99.9749,NULL,NULL
+Client,,New,"General questionnaire","For Yoga Therapy","2019-03-08 22:47:33","2019-03-08 22:47:44",FINISHED,116,Percentage,NULL,75,NULL,NULL

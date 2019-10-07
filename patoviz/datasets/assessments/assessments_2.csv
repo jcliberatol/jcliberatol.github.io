@@ -1,0 +1,194 @@
+last_name,middle_name,name,name1,description,execution_date,finish_date,status
+Michaels,,Daniel,"Sample title","Sample description","2017-03-20 18:56:05",NULL,IN_PROGRESS
+Edwards,,Jack,"Sample title","Sample description","2017-03-20 19:26:45",NULL,IN_PROGRESS
+Edwards,,Jack,name,descriptiom,"2017-03-20 19:32:15","2017-03-23 22:14:54",FINISHED
+Smith,,Client,name,descriptiom,"2017-03-20 19:34:09","2017-03-21 16:27:21",FINISHED
+Smith,,Client,name,descriptiom,"2017-03-21 16:27:30","2017-03-21 16:27:49",FINISHED
+Smith,,Client,name,descriptiom,"2017-05-02 16:38:54","2017-05-02 16:39:26",FINISHED
+Smith,,Client,name,descriptiom,"2017-07-20 20:11:18",NULL,IN_PROGRESS
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 00:10:54","2017-03-21 04:23:16",FINISHED
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 16:27:58","2017-07-20 19:49:37",FINISHED
+Michaels,,Daniel,"Test Assessment Yamil","Test Assessment Yamil","2017-09-19 22:45:04",NULL,IN_PROGRESS
+Michaels,,Daniel,name,descriptiom,"2017-03-21 16:28:23",NULL,IN_PROGRESS
+Moore,,Rory,"Social Skills Assessment","For ages 6-12","2017-03-21 17:27:09","2017-03-21 17:28:42",FINISHED
+Moore,,Rory,"Social Skills Assessment","For ages 6-12","2017-03-23 22:11:00","2017-03-23 22:12:23",FINISHED
+Moore,,Rory,"Social Skills Assessment","For ages 6-12","2017-03-23 22:15:48","2017-03-23 22:16:15",FINISHED
+Smith,,Client,"Sample title","Sample description","2017-03-21 21:19:39",NULL,IN_PROGRESS
+Washington,,Jacob,name,descriptiom,"2017-03-21 21:24:17",NULL,IN_PROGRESS
+Washington,,Jacob,"Sample title","Sample description","2017-03-21 21:24:47",NULL,IN_PROGRESS
+Washington,,Jacob,"Social Skills Assessment","For ages 6-12","2017-03-21 21:25:11","2017-04-05 16:49:44",FINISHED
+Washington,,Jacob,"Test Assessment Yamil","Test Assessment Yamil","2017-03-21 21:25:39",NULL,IN_PROGRESS
+Johnson,,Lakisha,name,descriptiom,"2017-03-21 21:35:54","2017-03-21 21:36:12",FINISHED
+Black,,Joseph,"Safari Assessment","Testing assessment creation in Safari","2017-03-23 21:41:51","2017-03-23 21:42:28",FINISHED
+Black,,Joseph,"Safari Assessment","Testing assessment creation in Safari","2017-03-24 21:29:27","2017-03-24 21:30:04",FINISHED
+James,,Justin,"iPad test","Testing out assessment creation on my iPad.","2017-03-23 21:50:06","2017-03-23 21:50:15",FINISHED
+James,,Justin,"iPad test","Testing out assessment creation on my iPad.","2017-04-05 16:45:58","2017-04-05 16:46:29",FINISHED
+Washington,,Jacob,"iPad test","Testing out assessment creation on my iPad.","2017-03-23 22:01:10","2017-03-23 22:01:19",FINISHED
+TALKINGTHEATER,,Dummy,"Sample title","Sample description","2017-03-23 22:25:48",NULL,IN_PROGRESS
+Jones,,Thomas,"iPad test","Testing out assessment creation on my iPad.",NULL,NULL,NULL
+Graph,,Xander,"Safari Assessment","Testing assessment creation in Safari",NULL,NULL,NULL
+Smith,,Sam,"Social Skills Assessment","For ages 6-12","2017-03-31 18:36:26","2017-03-31 18:38:47",FINISHED
+Daniels,,Patrick,"Social Skills Assessment","For ages 6-12","2017-04-12 16:42:18","2017-04-12 16:45:09",FINISHED
+Smith,,James,name,descriptiom,"2017-06-30 15:17:49","2017-06-30 15:18:20",FINISHED
+Smith,,James,name,descriptiom,"2017-06-30 16:56:55","2017-06-30 16:57:59",FINISHED
+Smith,,James,name,descriptiom,"2017-07-01 18:09:06",NULL,IN_PROGRESS
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-05-23 20:19:07","2017-05-23 20:19:30",FINISHED
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-06-30 21:26:31","2017-06-30 21:26:46",FINISHED
+Edwards,,Jack,"Social Skills Assessment","For ages 6-12","2017-06-30 21:27:08",NULL,IN_PROGRESS
+Moore,,Rory,"EAFIT CEFR Placing test","This is a english placement test for all the CEFR Levels","2017-07-11 18:08:17",NULL,IN_PROGRESS
+Smith,,James,"EAFIT CEFR Placing test","This is a english placement test for all the CEFR Levels","2017-07-11 18:12:12",NULL,IN_PROGRESS
+Smith,,James,"iPad test","Testing out assessment creation on my iPad.",NULL,NULL,NULL
+Smith,,James,"EAFIT placement CEFR","This is a test assesment for eafit","2017-07-11 18:25:25","2017-07-11 18:25:38",FINISHED
+James,,Justin,"Social Skills Assessment","For ages 6-12","2017-07-13 17:54:41","2017-07-13 17:55:28",FINISHED
+Michaels,,Daniel,"Program Mapping","Test assessment","2017-07-17 22:01:31","2017-07-17 22:02:01",FINISHED
+Michaels,,Daniel,"Program Mapping","Test assessment","2017-07-21 18:32:07",NULL,IN_PROGRESS
+Smith,,James,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 16:31:32",NULL,IN_PROGRESS
+Michaels,,Daniel,Testing,"Program mapping",NULL,NULL,NULL
+Aquarium,,Dummy,"Program Mapping","Test assessment","2017-07-20 20:50:42","2017-07-20 20:58:24",FINISHED
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 21:44:17","2017-07-21 03:17:27",FINISHED
+Johnson,,Lakisha,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-20 23:08:40","2017-07-21 03:26:56",FINISHED
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 03:32:55","2017-08-08 15:50:12",FINISHED
+Moore,,Rory,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-16 03:15:12",NULL,IN_PROGRESS
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-21 19:44:19","2017-07-21 20:04:12",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:11:50","2017-07-25 16:21:29",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:31:36","2017-07-25 16:38:47",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-25 16:44:56","2017-07-25 17:00:56",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-26 13:56:20","2017-07-26 17:47:05",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-07-27 19:43:25","2017-07-27 19:46:01",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2017-08-15 14:53:49","2017-08-16 16:20:55",FINISHED
+Tester,,Holland,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-06-22 15:35:13","2018-06-22 15:36:19",FINISHED
+Black,,Joseph,"Social Skills Assessment","For ages 6-12","2017-07-24 19:26:24","2017-07-24 19:28:40",FINISHED
+Edwards,,Jack,"Autism Instrument","The purpose of this study is...","2017-09-20 15:30:42","2017-09-20 15:31:00",FINISHED
+Ryan,,Jenny,"Social Skills Assessment","For ages 6-12","2017-09-20 15:43:20","2017-09-20 15:43:49",FINISHED
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:52:28","2017-09-25 18:52:39",FINISHED
+Smith,,James,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 20:06:28","2017-09-25 20:06:43",FINISHED
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 18:53:00","2017-09-25 18:53:12",FINISHED
+Black,,Joseph,"Average multidimensional test assesment","This is a test for average multidimensional model","2018-04-06 18:50:01",NULL,IN_PROGRESS
+Johnson,,Lakisha,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:48:44","2017-09-25 19:48:58",FINISHED
+Moore,,Rory,"Average multidimensional test assesment","This is a test for average multidimensional model",NULL,NULL,NULL
+Graph,,Xander,"Average multidimensional test assesment","This is a test for average multidimensional model",NULL,NULL,NULL
+Smith,,Client,"Average multidimensional test assesment","This is a test for average multidimensional model","2017-09-25 19:34:19","2017-09-25 19:34:34",FINISHED
+TALKINGTHEATER,,Dummy,"New assessment title","New assessment description","2017-10-17 15:40:41","2017-10-17 15:41:20",FINISHED
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 17:33:11","2017-11-13 17:33:18",INVALID
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 17:38:22",NULL,INVALID
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 18:56:33","2017-11-13 18:56:40",INVALID
+Smith,,Client,"Post-Lesson Survey","To be given at the end of every lesson.","2017-11-13 23:24:24","2017-11-13 23:24:30",FINISHED
+Smith,,Client,"General questionnaire","For Yoga Therapy","2017-11-14 19:32:37","2017-11-14 19:33:23",INVALID
+Michaels,,Daniel,"Social Skills Assessment","For ages 6-12","2017-11-27 22:24:45","2017-11-27 22:25:06",FINISHED
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:41:30","2017-11-27 22:41:50",INVALID
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:44:00","2017-11-27 22:44:15",INVALID
+Michaels,,Daniel,"[COPY]Social Skills Assessment","For ages 6-12","2017-12-22 17:56:50","2017-12-22 17:57:09",INVALID
+Edwards,,Jack,"[COPY]Social Skills Assessment","For ages 6-12","2017-11-27 22:46:03","2017-11-27 22:46:19",INVALID
+Morgan,,Jackson,"Language Skills Assessment","For ages 3-5","2017-11-29 17:30:44","2017-11-29 17:31:14",INVALID
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 1","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 21:47:52","2017-11-30 21:48:11",INVALID
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 2","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:01:38","2017-11-30 22:02:00",FINISHED
+Michaels,,Daniel,"Developmental Skills Assessment - Scenario 3","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:14:24","2017-11-30 22:15:03",FINISHED
+Michaels,,Daniel,"[COPY]Developmental Skills Assessment - Scenario 4","Assessment of present levels of developmental skills for child ages 3-6.","2017-11-30 22:45:00","2017-11-30 22:45:42",FINISHED
+Michaels,,Daniel,"Language Skills Assessment","For ages 3-5","2017-12-05 17:13:51","2017-12-05 17:14:02",FINISHED
+Michaels,,Daniel,"Language Skills Assessment","For ages 3-5","2018-03-22 17:02:33",NULL,IN_PROGRESS
+Smith,,Client,"[COPY]Social Skills Assessment","For ages 6-12","2017-12-22 18:03:12","2017-12-22 18:03:35",INVALID
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-06 16:05:09","2018-03-06 16:06:49",FINISHED
+Moore,,Rory,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-11-02 20:15:33","2018-11-02 20:22:11",FINISHED
+Moore,,Rory,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-06 16:07:16","2018-03-06 16:13:10",FINISHED
+Moore,,Rory,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-06 16:22:27","2018-03-06 16:24:16",FINISHED
+Moore,,Rory,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-07 21:33:11","2018-03-07 21:39:56",FINISHED
+Moore,,Rory,"Assessment of Development with Autism Spectrum Disorder using Autism Developmental Task Sequence","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-03-09 01:55:01",NULL,IN_PROGRESS
+Morgan,,Jackson,"[COPY]Motor Skills assessment","For children ages 2-6","2018-03-08 21:41:21","2018-03-08 21:41:30",FINISHED
+Morgan,,Jackson,"[COPY]Motor Skills assessment","For children ages 2-6","2018-03-08 21:53:50","2018-03-08 21:54:00",FINISHED
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-08 23:38:22","2018-03-08 23:42:03",INVALID
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:03:38","2018-03-30 14:09:35",INVALID
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:11:39","2018-03-30 14:22:14",INVALID
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:44:22","2018-03-30 14:49:24",FINISHED
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 14:54:04","2018-03-30 15:02:48",FINISHED
+Moore,,Rory,"[COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:09:55","2018-03-30 15:13:15",FINISHED
+Instrument,,Autism,"Assessment of Development with Autism Spectrum Disorder using Autism Developmental Task Sequence","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-06-28 22:02:55","2018-06-28 22:03:17",FINISHED
+Tester,,AI,"Assessment of Development with Autism Spectrum Disorder using Autism Developmental Task Sequence","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-05-21 15:15:55",NULL,IN_PROGRESS
+Tester,,PTI,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-03-27 17:06:35","2018-03-27 17:07:32",FINISHED
+Moore,,Rory,"[COPY][COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-03-30 15:53:15","2018-03-30 15:57:01",FINISHED
+Moore,,Rory,"[COPY][COPY]Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-11-02 20:29:59",NULL,IN_PROGRESS
+Bishop,James,Bryan,"Primefaces Assessment","Testing a new assessment","2018-03-30 22:10:34","2018-03-30 22:10:55",INVALID
+Bishop,James,Bryan,"Primefaces Assessment","Testing a new assessment","2018-03-30 22:11:33","2018-03-30 22:11:42",INVALID
+Bishop,James,Bryan,"Primefaces Assessment","Testing a new assessment","2018-03-30 22:13:23","2018-03-30 22:13:32",FINISHED
+Moore,,Rory,"Sample title","Sample description","2018-04-06 18:44:39",NULL,IN_PROGRESS
+Black,,Joseph,"Sample title","Sample description","2018-04-06 18:49:37",NULL,IN_PROGRESS
+Black,,Joseph,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-04-06 18:51:35",NULL,IN_PROGRESS
+Graph,,Xander,"Decision-Making Instrument ","The goal of this instrument is to decide whether a piece of stained clothing gets clean or stays dirty depending on different factors, e.g. whether it is cleaned with hot or cold water. The test starts with very simple tasks and then increases in difficulty. The test has 17 questions in total.","2018-07-09 20:12:08","2018-07-10 21:47:05",FINISHED
+Graph,,Xander,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:59:47",NULL,IN_PROGRESS
+Graph,,Xander,"Holland Scale","The Holland Codes are a system of personality typology developed by psychologist John. L. Holland with the idea that people’s personalities are analogous to the types of occupations they prefer. The system measures people on six separate scales of which the three highest scores in order represent individuals type.
+
+The original Holland Code test, called the Self-Directed Search, used forced choice preferences. This test use the public domain RIASEC markers from the Interest Item Pool.
+
+","2018-07-10 15:45:28","2018-07-10 17:24:29",FINISHED
+Graph,,Xander,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.",NULL,NULL,NULL
+Paula,,Maria,"Perspective Taking Instrument","The following six stories describe six different Helpers trying to help six different people. The six different people have similar serious problems. It is now time to decide whether to support each Helper’s plan to improve the person’s situation. The six Helpers equally care for the people. They highly recommend and provide the same basic plans to help the person, but carry them out in different ways. In the following six paragraphs, the Helpers' accurate accounts of their usual interaction with each person are given. Please rate each Helper’s method by answering the questions that follow. A rating of 1 means you strongly disagree with the method of the helper. A rating of 6 means you strongly agree with the method of the Helper.
+
+Each paragraph consists of many similar simple sentences. However, they are organized in different ways. Pay attention to how good each Helper's method is. You can read all the stories before you rate any of them, but in the end please be sure to rate every question. Thank you!","2018-07-09 20:53:01","2018-07-09 20:57:06",FINISHED
+Smith,,Client,"Destructive Behavior Inventory","Answer each item as honestly as possible.","2018-07-11 02:17:51","2018-07-11 02:18:09",FINISHED
+Moore,,Rory,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-08-15 20:36:14","2018-08-15 20:37:35",FINISHED
+Moore,,Rory,"Autism Developmental Assessment (ADA)","The purpose of this study is to create an instrument for measuring the development of autistic children and adults. The study assesses their development according to the stages and domains of the Model of Hierarchical Complexity (MHC). The creation of such an instrument is vital towards the assessment for the purpose of designing interventions and giving diagnostics. The expectation is that, with the instrument, and diagnostic, progress of the autistic children and adults can be tracked accordingly place them in the stages of MHC. This placement will be further helpful in designing behavioral and education materials and procedures and to further research and innovation in the field.","2018-11-02 20:27:49",NULL,IN_PROGRESS
+Client,,New,"A new assessment test","Testing a new assessment","2019-03-08 22:32:21","2019-03-08 22:32:32",FINISHED
+Client,,New,"General questionnaire","For Yoga Therapy","2019-03-08 22:47:33","2019-03-08 22:47:44",FINISHED
