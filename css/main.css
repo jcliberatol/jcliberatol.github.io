@@ -31,7 +31,7 @@
   width: 80vw;
   margin-top: 10vh;
   overflow: hidden;
-  overflow-y: visible;
+  overflow-y: hidden;
 }
 .title {
   font-size: 7vh;
